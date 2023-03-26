@@ -13,6 +13,7 @@ install dev dependencies
 Run The app
 
 ### `npm start` or `yarn start`
+### `cd ios` and `pod install`
 
 Runs your app in development mode.
 
